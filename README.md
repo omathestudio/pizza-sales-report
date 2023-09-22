@@ -16,7 +16,9 @@ Data Tutorials is a channel on YouTube dedicated to Data Analysis, that provides
 
 ### The tutorial
 
-By the end of the tutorial, you should be able to: extract, transform and load data using SQL queries. You should also be able to analyse and visualise data using Tableau.
+By the end of the tutorial, you should be able to: 
+- Extract, transform and load data using SQL queries.
+- Analyse and visualise data using Tableau.
 
 ### Screenshot
 
