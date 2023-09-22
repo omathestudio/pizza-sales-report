@@ -1,6 +1,6 @@
 # Pizza Sales Report
 
-This is my take on the [Tableau & SQL Project by Data Tutorials](https://youtu.be/lrl0vz-p-yc?si=pMjJB8zYsUmDsdK4).
+This is my attempt on the [Tableau & SQL Project by Data Tutorials](https://youtu.be/lrl0vz-p-yc?si=pMjJB8zYsUmDsdK4).
 Data Tutorials is a channel on YouTube dedicated to Data Analysis, that provides in-depth tutorials to master tools like Power BI, Tableau, SQL, Excel, Python, AWS, Azure and more.
 
 ## Table of Contents
